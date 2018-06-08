@@ -6,6 +6,7 @@ blaag
 blaaskaak
 bliksemstraal
 boef
+boemelaar
 boer
 boerenhufter
 boerenpummel
@@ -19,6 +20,7 @@ dwaas
 feeks
 femel
 fielt
+flierefluiter
 gajes
 galgenaas
 galgenbrok
@@ -46,11 +48,13 @@ lammeling
 lamstraal
 lapzwans
 leegloper
+libertijn
 lichtekooi
 loebas
 loeder
 lomperd
 lorejas
+losbol
 minkukel
 naarling
 oelewapper
