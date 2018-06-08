@@ -36,6 +36,7 @@ hufter
 kapoen
 karonje
 kinkel
+klaploper
 kreng
 kwajong
 kwapoets
@@ -73,6 +74,7 @@ rekel
 rotjong
 rotzak
 rouwdouw
+scharminkel
 schavuit
 schelm
 schobbejak
