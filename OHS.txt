@@ -36,6 +36,7 @@ hufter
 kapoen
 karonje
 kinkel
+klaploper
 kreng
 kwajong
 kwapoets
@@ -51,6 +52,7 @@ loebas
 loeder
 lomperd
 lorejas
+maloot
 minkukel
 naarling
 oelewapper
@@ -73,6 +75,7 @@ rekel
 rotjong
 rotzak
 rouwdouw
+scharminkel
 schavuit
 schelm
 schobbejak
@@ -80,6 +83,7 @@ schoelje
 schoft
 schorriemorrie
 schurk
+schuimsmarcheerder
 smeerlap
 snaak
 snijboon
