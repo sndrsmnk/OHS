@@ -28,6 +28,7 @@ gemenerik
 geteisem
 gluiperd
 guit
+haaibaai
 hansworst
 harlekijn
 heikneuter
@@ -37,6 +38,7 @@ hork
 hufter
 kapoen
 karonje
+kenau
 kinkel
 klaploper
 kreng
@@ -57,6 +59,7 @@ lomperd
 lorejas
 losbol
 malloot
+mannin
 minkukel
 naarling
 oelewapper
@@ -86,8 +89,8 @@ schobbejak
 schoelje
 schoft
 schorriemorrie
-schurk
 schuinsmarcheerder
+schurk
 smeerlap
 snaak
 snijboon
