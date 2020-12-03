@@ -1,3 +1,4 @@
+aasvogel
 addergebroed
 belhamel
 bengel
@@ -91,6 +92,7 @@ schoft
 schorriemorrie
 schuinsmarcheerder
 schurk
+sloerie
 smeerlap
 snaak
 snijboon
