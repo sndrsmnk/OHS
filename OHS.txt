@@ -92,7 +92,6 @@ ploert
 plurk
 potsenmaker
 pummel
-pummel
 rabauw
 raddraaier
 rakker
